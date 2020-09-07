@@ -1,0 +1,13 @@
+D:\Documentos\BRAHAYAN\Ejercicio3\bin\Debug\netcoreapp3.1\Ejercicio3.exe
+D:\Documentos\BRAHAYAN\Ejercicio3\bin\Debug\netcoreapp3.1\Ejercicio3.deps.json
+D:\Documentos\BRAHAYAN\Ejercicio3\bin\Debug\netcoreapp3.1\Ejercicio3.runtimeconfig.json
+D:\Documentos\BRAHAYAN\Ejercicio3\bin\Debug\netcoreapp3.1\Ejercicio3.runtimeconfig.dev.json
+D:\Documentos\BRAHAYAN\Ejercicio3\bin\Debug\netcoreapp3.1\Ejercicio3.dll
+D:\Documentos\BRAHAYAN\Ejercicio3\bin\Debug\netcoreapp3.1\Ejercicio3.pdb
+D:\Documentos\BRAHAYAN\Ejercicio3\obj\Debug\netcoreapp3.1\Ejercicio3.csprojAssemblyReference.cache
+D:\Documentos\BRAHAYAN\Ejercicio3\obj\Debug\netcoreapp3.1\Ejercicio3.AssemblyInfoInputs.cache
+D:\Documentos\BRAHAYAN\Ejercicio3\obj\Debug\netcoreapp3.1\Ejercicio3.AssemblyInfo.cs
+D:\Documentos\BRAHAYAN\Ejercicio3\obj\Debug\netcoreapp3.1\Ejercicio3.csproj.CoreCompileInputs.cache
+D:\Documentos\BRAHAYAN\Ejercicio3\obj\Debug\netcoreapp3.1\Ejercicio3.dll
+D:\Documentos\BRAHAYAN\Ejercicio3\obj\Debug\netcoreapp3.1\Ejercicio3.pdb
+D:\Documentos\BRAHAYAN\Ejercicio3\obj\Debug\netcoreapp3.1\Ejercicio3.genruntimeconfig.cache

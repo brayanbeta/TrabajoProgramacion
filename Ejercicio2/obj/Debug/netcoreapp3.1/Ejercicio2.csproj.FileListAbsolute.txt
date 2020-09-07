@@ -1,0 +1,13 @@
+D:\Documentos\BRAHAYAN\Ejercicio2\bin\Debug\netcoreapp3.1\Ejercicio2.exe
+D:\Documentos\BRAHAYAN\Ejercicio2\bin\Debug\netcoreapp3.1\Ejercicio2.deps.json
+D:\Documentos\BRAHAYAN\Ejercicio2\bin\Debug\netcoreapp3.1\Ejercicio2.runtimeconfig.json
+D:\Documentos\BRAHAYAN\Ejercicio2\bin\Debug\netcoreapp3.1\Ejercicio2.runtimeconfig.dev.json
+D:\Documentos\BRAHAYAN\Ejercicio2\bin\Debug\netcoreapp3.1\Ejercicio2.dll
+D:\Documentos\BRAHAYAN\Ejercicio2\bin\Debug\netcoreapp3.1\Ejercicio2.pdb
+D:\Documentos\BRAHAYAN\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.csprojAssemblyReference.cache
+D:\Documentos\BRAHAYAN\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.AssemblyInfoInputs.cache
+D:\Documentos\BRAHAYAN\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.AssemblyInfo.cs
+D:\Documentos\BRAHAYAN\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.csproj.CoreCompileInputs.cache
+D:\Documentos\BRAHAYAN\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.dll
+D:\Documentos\BRAHAYAN\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.pdb
+D:\Documentos\BRAHAYAN\Ejercicio2\obj\Debug\netcoreapp3.1\Ejercicio2.genruntimeconfig.cache
